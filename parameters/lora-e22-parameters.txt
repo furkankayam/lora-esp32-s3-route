@@ -1,0 +1,43 @@
+--------------------------
+
+E22 MASTER Parameters;
+
+Adress: 1
+Channel: 36
+NET ID: 0
+Key: 0
+Baud Rate: 9600
+WOR Role: Translate
+Tran Mode: Fixed
+LBT: Disable
+Parity: 8N1
+Air Rate: 2.4Kbps
+Packet Size: 240B
+Wor Cycle: 2000ms
+Power: 22dBm
+Relay: Disable
+Packet RSSI: Disable
+Channel RSSI: Disable
+
+--------------------------
+
+E22 SLAVE Parameters;
+
+Adress: 2
+Channel: 36
+NET ID: 0
+Key: 0
+Baud Rate: 9600
+WOR Role: Receive
+Tran Mode: Fixed
+LBT: Disable
+Parity: 8N1
+Air Rate: 2.4Kbps
+Packet Size: 240B
+Wor Cycle: 2000ms
+Power: 22dBm
+Relay: Disable
+Packet RSSI: Disable
+Channel RSSI: Disable
+
+--------------------------
